@@ -1,0 +1,8 @@
+name = "my-dns-project"
+type = "javascript"
+
+account_id = "9486abfe380a19c078855439890dca90"
+workers_dev = true
+route = "www.sumithazhivalappil.com/geo"
+zone_id = "a2ca025d49fa64c83934ebc00200a820"
+compatibility_date = "2023-02-14"
